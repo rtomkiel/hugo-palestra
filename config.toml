@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "pt-br"
+title = "Projeto criado para a palestra no FOSSDAY Lajeado"
+theme = "fossdaytheme"
+
+[params]
+  name = "Fossday"
+  facebook = "https://facebook.com/doseextra"
+  twitter = "https://twitter.com/tomtomkiel"
